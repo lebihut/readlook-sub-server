@@ -1,0 +1,18 @@
+# 👀 ReadLook | Morpheus Lite — 10 nodes
+# Snapshot source: https://github.com/morpheusadam/v2ray-config
+# Source file: subs/bundles/lite.txt
+# Extracted: 2026-11-10
+# Note: static snapshot; server availability can change at any time.
+#profile-title: 👀 ReadLook | Morpheus Lite
+#profile-update-interval: 1
+
+trojan://6YsFfrAp4EoSWeqg@testreuiuxw-production.up.railway.app:443?path=%2Fapi%2F1vczpr&security=tls&alpn=http%2F1.1&insecure=0&host=testreuiuxw-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=testreuiuxw-production.up.railway.app#@DeltaKroneckerGithub
+trojan://trojan@185.146.173.94:80?path=%2F%3Fed%3D2560&security=tls&host=freevpn.ahadadi796.workers.dev&type=ws&sni=freevpn.ahadadi796.workers.dev#@DeltaKroneckerGithub
+trojan://ttfang@77.37.33.216:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ttfang.fange.me#@DeltaKroneckerGithub
+trojan://NISHIKUITAN111@104.25.101.97:443/?type=tcp&security=tls#@DeltaKroneckerGithub
+trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-my.251313.xyz:443?allowInsecure=1&sni=www.cloudflare.com#@DeltaKroneckerGithub
+trojan://88bac5c0-066f-11f0-992d-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#@DeltaKroneckerGithub
+trojan://031322@masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443?sni=masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev&fp=chrome&type=ws&path=%2F&host=masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev#@DeltaKroneckerGithub
+trojan://tg-dns68@104.19.39.99:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#@DeltaKroneckerGithub
+trojan://7c9fea7c-8def-3dd5-853a-5844f9b04146@ikuai.bot.nu:14555?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=windows11.dpdns.org#@DeltaKroneckerGithub
+trojan://521314@72.167.243.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#@DeltaKroneckerGithub
