@@ -1,11 +1,1 @@
-#announce: 👀 ReadLook | Подписка с автоматически собранными узлами Финляндии. Проверьте задержку и доступность в своём клиенте перед использованием.
-#profile-title: 👀 ReadLook | Finland Servers
-#profile-web-page-url: https://github.com/lebihut/readlook-sub-server
-#support-url: https://t.me/flat4470
-#profile-update-interval: 1
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?fp=chrome&host=45.144.234.157&path=%2Fvless&security=false&type=ws#🌐 ReadLook | VLESS 001
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?alpn=h2&fp=qq&security=tls&serviceName=grpc&sni=b.fi-1.bnc-gt.co.uk&type=grpc#🌐 ReadLook | VLESS 002
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?fp=firefox&security=tls&serviceName=grpc&sni=b.fi-1.bnc-gt.co.uk&type=grpc#🌐 ReadLook | VLESS 003
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?fp=unsafe&host=45.144.234.157&path=%2Fvless&security=none&sni=45.144.234.157&type=ws#🌐 ReadLook | VLESS 004
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?host=45.144.234.157&path=%2Fvless&security=none&type=ws#🌐 ReadLook | VLESS 005
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MkE2QXN5Wi1yQWxsejB3YktIeldB@178.253.16.185:8388#🌐 ReadLook | Shadowsocks 001
+
