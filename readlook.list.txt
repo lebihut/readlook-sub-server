@@ -1,1 +1,2 @@
-https://connect.stealthsurf.net/to/ad7dd4e19b17b84586d45b2eb0437ed1
+vless://c01bf18c-1eef-41e1-9091-44ca8d2da735@84.252.101.248:43000?type=tcp&security=reality&pbk=i6iw88IF4nOAzSN9yKa44D3GKNgFO6reOz_sd14QrBc&fp=chrome&sid=7f92ca5f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%92%AB%20%F0%9F%9B%A1%EF%B8%8FCheburNet-API
+vless://96f8c427-2112-445a-8dc1-b99346b27d5f@109.248.168.133:43000?type=tcp&security=reality&pbk=9UORJCVFnlKP5enlgpIOtouTOZ-EDgATELmsYYBAVXI&fp=chrome&sid=dae60519&spx=%2F&flow=xtls-rprx-vision#%F0%9F%%AB%20%F0%9F%¡%EF%B8%8FCheburNet-NG
